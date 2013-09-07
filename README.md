@@ -1,4 +1,4 @@
-AppFramework
+JsFramework
 ============
 
-MVC framework for PHP
+Other framework for JavaScript
